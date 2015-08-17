@@ -22,5 +22,5 @@ There are some repos listed in this file. Your task is to contribute to these re
 ##Evaluation
 
 * Clone this repo. Make a file called contributions.md. List all the contributions you made with links. Send the pull request to this repo. 
-* Deadline 11.59PM Aug 17 2015
+* Deadline 11.59PM Aug 20 2015
 
