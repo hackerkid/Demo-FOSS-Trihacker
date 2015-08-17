@@ -17,6 +17,7 @@ There are some repos listed in this file. Your task is to contribute to these re
 * https://github.com/feross/mad-science-modules
 * https://github.com/hackerkid/Mind-Exapanding-Books
 * https://github.com/hackerkid/Wikifeedia
+* https://github.com/moose-team/friends
 
 ##Evaluation
 
